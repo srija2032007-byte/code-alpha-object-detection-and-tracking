@@ -30,9 +30,5 @@ It is developed as part of the **CodeAlpha Internship Project**.
 - Streamlit (optional UI)
 
 ---
-
-## 📁 Project Structure
-
-
 ## 👨‍💻 Author
 SRIJANA.D
